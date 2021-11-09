@@ -1,0 +1,2 @@
+# testMergeA
+test merge a
